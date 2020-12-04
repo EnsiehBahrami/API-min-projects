@@ -1,19 +1,6 @@
 # API-min-projects
 
 API-Quandl
-$(document).ready(function(){
-	$('.increase').fontSize({
-		action: "up",
-		elements: "#API-Quandl",
-		max: 36
-	});
-
-	$('.decrease').fontSize({
-		action: 'down',
-		elements: "#content"
-	});
-})
-
 
 Data
 
